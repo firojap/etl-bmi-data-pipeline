@@ -18,7 +18,7 @@ A simple, production-style **ETL pipeline** in Python that:
 ---
 
 ## 🗂 Project Structure
-
+```
 ETL_BMI_data/
 ├─ ETL_script.py
 ├─ README.md
@@ -29,7 +29,7 @@ ETL_BMI_data/
 └─ Target/ # <-- outputs are written here
     ├─ transformed_data.csv
     └─ log_file.txt
-
+```
 
 ---
 
